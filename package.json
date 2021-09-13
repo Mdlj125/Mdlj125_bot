@@ -1,0 +1,7 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Mdlj125bot.js",
+  "scripts": {
+  "start": "node Mdlj125bot.js"
