@@ -5,9 +5,8 @@
   "main": "Mdlj125_bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  "start": "node Mdlj125_bot.js"
-  },
+    "start": "node Mdlj125_bot.js"
+   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
   }
